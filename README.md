@@ -101,3 +101,5 @@
 46. Incidentally: 顺便说一句
 
 47. additional: 额外的
+
+48. architectures: 科技架构
