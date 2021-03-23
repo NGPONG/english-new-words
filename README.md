@@ -1,25 +1,25 @@
 http://csapp.cs.cmu.edu/3e/README-datalab
   * two's complement arithmetic [.erɪθ'metɪk]: 二进制补码算法
-  *                                  contest: 竞赛
-  *                           self-contained: 独立的
-  *                              consists of: 由...组成
-  *                              a series of: 一系列
-  *                                  puzzles: 难题
-  *                             mathematical: 数学上的
-  *                                 absolute: 绝对的
-  *                            straight-line: 直线
-  *                                 restrict: 受限制的
-  *                               arithmetic: 算术算法
-  *                              conditional: 条件语句
-  *                                arbitrary: 随意的
-  *                            significantly: 显著的，极大的
-  *                                   assign: 分配, 赋值
-  *           coding guidelines [ˈɡaɪdˈlaɪn]: 编码准则
-  *                               compliance: 遵守
-  *                                    legal: 合法的
-  *                              correctness: 正确性
-  *                                adherence: 遵守
-  *                              autograding: 自动评分 
+  *                                   contest: 竞赛
+  *                            self-contained: 独立的
+  *                               consists of: 由...组成
+  *                               a series of: 一系列
+  *                                   puzzles: 难题
+  *                              mathematical: 数学上的
+  *                                  absolute: 绝对的
+  *                             straight-line: 直线
+  *                                  restrict: 受限制的
+  *                                arithmetic: 算术算法
+  *                               conditional: 条件语句
+  *                                 arbitrary: 随意的
+  *                             significantly: 显著的，极大的
+  *                                    assign: 分配, 赋值
+  *            coding guidelines [ˈɡaɪdˈlaɪn]: 编码准则
+  *                                compliance: 遵守
+  *                                     legal: 合法的
+  *                               correctness: 正确性
+  *                                 adherence: 遵守
+  *                               autograding: 自动评分 
 
 http://csapp.cs.cmu.edu/3e/datalab.pdf
   *          artificial [.ɑrtɪ'fɪʃ(ə)l]: 人造的
