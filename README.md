@@ -55,3 +55,21 @@ http://csapp.cs.cmu.edu/3e/README-attacklab
   * alter: 改变
   * exploit: 漏洞利用, 功劳
   * represent: 代表
+
+http://csapp.cs.cmu.edu/3e/attacklab.pdf
+  * vulnerability: 漏洞
+  * gain: 获得
+  * outcome: 成果
+  * safeguard: 保障，舒肤佳
+  * against: 对着，相反
+  * through this: 通过这个
+  * secure: 安全
+  * as well as: 以及，也
+  * mechanism: 机构，机能，机制
+  * condone: 容忍
+  * form: 形式，表单
+  * material: 材料
+  * individual: 个人，个体的
+  * obtain: 得到
+  * regard: 把…看作, 认为, 尊重, 考虑
+  * sense: 意义，意思
