@@ -73,3 +73,17 @@ http://csapp.cs.cmu.edu/3e/attacklab.pdf
   * obtain: 得到
   * regard: 把…看作, 认为, 尊重, 考虑
   * sense: 意义，意思
+  * assignment: 作业, 任务
+  * validation: 确认, 验证
+  * circumvent: 规避
+  * incorporate: 合并, 结合
+  * declared: 声明的
+  * determine: 决定
+  * indicate: 显示
+  * typically: 通常, 典型的
+  * feed: 喂养, 送进
+  * correspond: 相应, 对应
+  * treated as: 视为
+  * consistent: 一贯的, 一致性
+  * vulnerable: 易受攻击的
+  * 
